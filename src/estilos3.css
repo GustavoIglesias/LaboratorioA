@@ -30,13 +30,18 @@ main {
   flex-grow: 1;
   justify-content: space-around;
   background: azure;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items:stretch;
 }
 
 #contenido div {
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: center;
-  width: 120px;
+
+  width: 200px;
+  height: 200px;
+}
+#contenido div:hover{
+background-color: #00ff0020;
 }
 #contenido div img {
   width: 100px;
