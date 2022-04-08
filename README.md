@@ -1,2 +1,3 @@
 # LaboratorioA
-Laboratorio de flex 1
+Maquetación cuadro de mandos
+
